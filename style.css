@@ -7,7 +7,7 @@ body {
 }
 a {
     text-decoration:none;
-    font-size: 40px;
+    font-size: 25px;
 }
 .box{
     font-size: 50px;
@@ -33,5 +33,5 @@ button {
     border-radius: 5px;
     background: white;
     color: red;
-    font-size: 40px;
+    font-size: 25px;
 }
