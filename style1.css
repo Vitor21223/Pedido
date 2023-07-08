@@ -1,0 +1,23 @@
+body{
+  background-color: #191919;
+  display: flex;
+}
+.container {
+  display: flex;
+  align-items: center;
+ }
+
+.imagem {
+ width: 600px; /* Ajuste o tamanho conforme necessário */
+  height: auto;
+  margin-right: 50px; /* Adicione margem à direita para separar a imagem do texto */
+  margin-left: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+.texto {
+   font-size: 36px;
+   color: white;
+}
+  
