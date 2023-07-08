@@ -1,6 +1,9 @@
 body{
   background-color: #191919;
 }
+h1{
+  color: white;
+}
 .container {
   display: inline-block;
   justify-content: center;
