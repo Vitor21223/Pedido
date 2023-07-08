@@ -12,8 +12,9 @@ body{
   height: auto;
   margin-right: 50px; /* Adicione margem à direita para separar a imagem do texto */
   margin-left: 50px;
-  justify-content: center;
+  justify-content: center-top;
   align-items: center;
+
 }
 
 .texto {
